@@ -6,4 +6,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarirfanp&" alt="akbarirfanp" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarirfanp)](https://github.com/akbarirfanp/akbarirfanp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarirfanp)](https://github.com/akbarirfanp/github-readme-stats)
